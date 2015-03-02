@@ -1,0 +1,2 @@
+vikram,C:/Users/Vikram/SpringApplication/app/src/main/webapp/resources/vikram
+manasa,C:/Users/Vikram/SpringApplication/app/src/main/webapp/resources/manasa
